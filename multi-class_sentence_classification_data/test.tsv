@@ -1,0 +1,559 @@
+Intent	Sentence
+costo_servizio	Se utilizzo la vostra app devo pagare ?
+addebito_bancario_spesa	Ho ricevuto una prima email di addebito bancario e poi una seconda. Non capisco a che serve
+coupon_omaggio	buono
+info_registrazione	vorrei entrare nel sito
+fasce_orarie_consegna_a_casa	Disponibilità date di consegna
+email_conferma_registrazione	Email conferma registrazione non arrivata
+codice_sconto	Vorrei sapere come inserire il codice sconto
+email_conferma_registrazione	Non trovo l'email di conferma della registrazione
+logout_carrello	come faccio il log out?
+errore_conclusione_ordine	Non trovo il mio ordine e in fase di conferma non ho pagato
+cancellare_registrazione	cancellare account
+tracking	Quando arriva il mio ordine?
+consegna_piano	Vorrei avere la spesa fino al piano di casa mia posso?
+ricerca_prodotti	Avete i pomodori piccadilly?
+lista_farmaci_consegna_a_domicilio	Dove posso consultare la lista dei farmaci contenenti ibuprofene?
+codice_fiscale	Come faccio ad inserire il codice fiscale?
+annullare_ordine	Posso annullare l'ordine
+ricerca_prodotti	Quanto costa la mousse magra ai mirtilli della Naturelle?
+nome_utente	Cosa devo mettere come nome utente?
+codice_sconto	Nella spesa online come si fa per applicare lo sconto carta più?
+volantino	Vorrei avere il volantino online
+cambiare_email	mi dici come cambio l'email
+consulto_medico	circoncisione
+accesso_limitato	Perché mi comparare la scritta accesso limitato?
+promozioni	Le promo del volantino non le trovo anche in crai online
+tracking	Dove posso vedere il mio ordine ?
+logout_carrello	Ho preparato un carrello con 18 articoli, mi sono registrato e poi è sparito tutto, come mai?
+app	Come faccio a scaricare l'app?
+errore_codice_segreto	Come posso inserire il codice segreto?
+info_malattie	Vorrei sapere cos'è la febbre gialla
+agenda_bloccata	Ho un problema con l'agenda,non riesco ad accedervi
+problema_consegna	Sistema non trova indirizzo
+acquisto_senza_carta_piu	Fare la spesa senza carta fedeltà?
+citta_consegna	Fare spesa online e ricevere la consegna a bergamo?
+promozioni	dove trovo i prodotti in offerta?
+collaborazioni	Posso collaborare con voi come rider
+ricetta	Ricette?
+promozioni	Su Crai Spesa Online trovo tutte le promozioni che trovo sul volantino cartaceo?
+contatti	Ho bisogno di contattarvi
+cancellazione_newsletter	no newsletter
+reso_prodotti	Mi hanno consegnato la spesa ma mancavano due prodotti che io avevo già pagato
+app	Play store
+problema_accesso_app	Come faccio ad accedere all'app?
+scontrino_fiscale	fatturazione
+rimozione_dati	Non ho capito come mai compaiono i miei dati sulla vostra piattaforma
+contatti	Ho bisogno di chiamare qualcuno
+cosa_cucino	Consigli su ricette?
+cambiare_email	cambiare email
+ricerca_prodotti	Stavo cercando un prodotto in particolare
+mancato_accredito_punti	Accredito punti carta non avvenuto
+device_diversi_sincronizzati	Sintonizzazione di più device
+device_diversi_sincronizzati	device diversi sincronizzati
+ricerca_prodotti	avete i cantucci
+reso_prodotti	il prodotto che ho ricevuto era marcio
+errore_password	ho problemi a creare un account
+estero	Invio a paesi europei ?
+contenuti_blog	Vorrei creare contenuti sul vostro blog
+errore_aggiunta_carrello	"Stavo aggiungendo dei prodotti nel carrello per procedere poi all'acquisto ma definisce tutto come ""prodotto non disponibile"" come mai?"
+codice_sconto	Dove inserisco il mio codice sconto?
+fasce_orarie_consegna_a_casa	Servizio di consegna a casa
+codice_fiscale	Mi sai dire come faccio ad inserire il codice fiscale?
+tipologie_ordine	tipologia ordini
+agenda_bloccata	agenda bloccata
+logout_carrello	se esco dall'account ma non ho completato l'ordine si cancella?
+cancellazione_account	cancellazione account
+sconti_non_applicati	Come mai il prezzo non mi risulta scontato?
+lista_preferiti	dove trovo la lista spesa che ho fatto?
+familiari	Posso inserire altri componenti familiari oltre ai miei figli?
+ricerca_prodotti	Estathé deteinato
+errore_pagamento	Non riesco a pagare la spesa
+modifica_ordine	Devo modificare la data del mio ordine
+errore_schermata_indisponibile	L'applicazione è inutilizzabile su ios
+contatti	Numero verde
+citta_consegna	A gorizia c'è la spesa a domicilio
+tracking	Monitora spesa
+tracking	Ho fatto la spesa online e vorrei tracciarla
+orari_negozi	orari ritiro in negozio
+saldo_punti	Come posso vedere i punti crai?
+hr	Come lavorare con voi
+importo_pagato_diverso	Mi sono accorta che il prezzo della spesa totale è diverso dal catalogo
+promozioni	Mi sai dire le promo attive?
+errore_conclusione_ordine	non mi fa concludere l'ordine
+disponibilita_prodotti	Disponibilità prodotti , dove la vedo?
+operatore	come reclamare
+area_non_coperta	spedite in
+provenienza_spesa	Ho ordinato la spesa da dove arriva?
+info_ingredienti_allergeni	Vorrei una lista degli ingredienti
+privacy	La mia privacy è protetta?
+ricerca_prodotti	tovagliette di carta NICKY
+info_vetrina	info assortimento
+nome_utente	Nome utente
+consulto_medico	Cos'è un microbiota?
+collaborazioni	Vorrei inviare il mio cv
+servizio_di_consegna	se inserisco la consegna entro 60 minuti pago di più?
+consulto_medico	La notte mi secca la lingua non so come fare
+reso_prodotti	Ho bisogno del reso perchè i prodotti erano scaduti
+info_registrazione_azienda	Azienda info registrazione
+fare_spesa	Bisogna prima registrarsi?
+prodotto_sbagliato	Il prodotto ricevuto è sbagliato
+saldo_punti	Vorrei vedere il saldo punti
+estensione_geografica	Mi dici se potrò utilizzare il vostro servizio anche in altre città ?
+hr	lavoro con voi
+no_corrispondenza_prodotti	Perché le offerte del volantino non corrispondono ai prezzi online?
+uso_improprio_email	uso improprio email
+sconti_non_applicati	sconti non applicati
+limite_minimo	Vorrei sapere se esiste un limite minimo di spesa per usufruire del servizio
+consegna_a_domicilio	Come faccio ad ordinare un prodotto?
+utente_bloccato	Non posso più accedere all'area personale
+cambiare_orario_consegna	Volevo sapere se si poteva modificare l'orario di consegna della spesa
+carta_non_intestatario	Voglio effettuare la registrazione con la carta fedeltà di un'altra persona posso?
+registrazione_senza_carta	Dopo la registrazione posso inserire il mio numero tessera ?
+modifica_preferiti	Non riesco a salvare i dati che ho inserito
+problema_consegna	Aspettavo un ordine a domicilio entro le 19 ma non è ancora arrivato
+info_registrazione_azienda	info registrazione azienda
+registrazione_senza_carta	vorrei registrarmi posso anche se non ho la carta?
+problema_sito	Non è possibile inserire il campo Paese nel form
+problema_configurazione_app	Non riesco a scaricare l'app sul mio dispositivo iphone mi dice solo huawei
+citta_consegna	Vorrei sapere quali sono le zone coperte dal servizio ?
+registrazione_senza_email	Vorrei registrarmi senza email
+farmacia_preferita	Non riesco aggiornare la mia farmacia nella piattaforma
+lista_preferiti	Vorrei sapere se esiste un'area per salvare i prodotti preferiti.
+vaccini_viaggi	che vaccino devo fare?
+farmacia_preferita	Non riesco ad inserire la mia farmacia nella piattaforma
+modifica_ordine	Posso ancora modificare il mio ordine anche se è stato inoltrato?
+ricerca_prodotti	Pomodori
+info_malattie	Ho 25 anni posso vaccinarmi contro la febbre gialla?
+medico_preferito	medico preferito
+coupon_omaggio	Mi sono registrato ma non riesco a scaricare gli sconti
+provenienza_spesa	Da dove arriva la mia spesa che ho ordinato?
+citta_consegna	Effettuate consegne anche su Milano?
+device_diversi_sincronizzati	é possibile che io utlizzi due device e avere su entrambi le stesse operazioni?
+logout_carrello	Posso sospendere la spesa e riprenderla in un altro momento?
+errore_aggiunta_carrello	Non mi fa aggiungere i prodotti in carrello
+prodotto_scaduto	Aiuto.. il prodotto è scaduto
+consegna_a_domicilio	la consegna è disponibile in tutta italia ?
+carrello_spesa	Non trovo l'area per accedere al carrello della spesa
+consegna_spesa	Come avvengono le consegne?
+modifica_password	Vorrei cambiare la password
+fasce_orarie_consegna_a_casa	avete delle fasce predefinite di consegna?
+email_modifica	Ho cambiato la mia email che faccio?
+citta_consegna	Non trovo la mia regione
+contatti	Aiuto non voglio parlare con un robot
+errore_codice_segreto	il sistema ripetutamente una volta inserito il codice segreto mi dice di riprovare più tardi inviato da iphone
+consulto_medico	sto male ho la febbre gialla
+area_non_coperta	Nella mia zona il servizio non è attivo che faccio?
+farmacia_preferita	Non riesco ad inserire la farmacia come preferita perchè?
+carrello_spesa	Non riesco a trovare il carrello della spesa
+registrazione_utenti	Mi sai dire come faccio ad utilizzare il vostro servizio?
+info_negozi	cosa puoi dirmi sul mio store?
+errore_password	Come mai mi dice che la password non è corretta?
+errore_aggiunta_carrello	quando vado a concludere la spesa mi azzera il carrello
+info_negozi	info negozi
+problema_consegna	Ho dei problemi con la spesa, non è ancora arrivata è in ritardo
+fare_spesa	C'è un tetto massimo di importo o di articoli?
+consulto_medico	Vorrei sapere cosa mi fa dimagrire
+problema_sito	non riesco a inserire nome cognome e email per completare la registreazione
+citta_consegna	Fuziona anche in Basilicata?
+problema_accesso_app	Vorrei accedere all'app ma non riesco come faccio?
+errore_conclusione_ordine	Al completamento dell'acquisto mancava il codice di 6 cifre che non ho ricevuto via sms
+info_newsletter	Come faccio ad iscrivermi alla newsletter?
+complimenti	app bellissima complimenti agli sviluppatori
+errore_conclusione_ordine	Ho concluso l'ordine ma mi dà errore
+privacy	Volevo sapere se usate regole di protezione privacy?
+modifica_password	cambia password
+modifica_preferiti	Problema inserimento dati farmacia e medico
+disponibilita_prodotti	Prodotto disponibile?
+info_malattie	vorrei avere informazioni sulla febbre gialla 
+limite_minimo	spesa minima
+ticket	Con i buoni pasto è possibile fare la spesa online?
+ecommerce	Voglio comprare enterogermina
+annullare_ordine	come si annulla un ordine?
+consulto_medico	La pasta fa ingrassare
+cambiare_orario_consegna	Voglio una consegna posticipata
+accesso_limitato	È un problema dell'app o mio la scritta accesso limitato?
+errore_aggiunta_familiare	Quanti componenti familiari posso aggiungere ?
+errore_conclusione_ordine	Ho cercato di fare il check out mi ha cancellato tutto
+addebito_bancario_spesa	addebito bancario avuto due volte possibile?
+sconti_non_applicati	Ho preso dei prodotti scontati ma non applica lo sconto applica lo sconto
+rimozione_dati	Non mi sono mai iscritta ma compaiono i miei dati sulla piattaforma
+cambiare_orario_consegna	Consegna spesa a casa cambio orario?
+sei_un_robot	Ma tu sei un robot?
+utente_bloccato	L'utente da me registrato ha un lucchetto rosso sopra
+costo_servizio	Mi sai dire se il servizio è a pagamento?
+citta_consegna	Crai spesa online fin dove è attivo?
+cancellazione_account	Potete eliminare i miei dati?
+cambiare_orario_consegna	Avevo scelto che arrivasse alle 19, ma non è stato cambiato l'orario di consegna
+controindicazioni	lista controindicazioni farmaci
+fare_spesa	Posso fare la spesa e poi registrarmi?
+prodotto_irreperibile	volevo acquistare un prodotto ma non lo trovo
+promemoria	Mi sai dire come inserisco il promemoria?
+problema_consegna	La spesa non mi è stata consegnata quando l'avevo prefissata
+tipologie_ordine	che tipi di ordine posso fare?
+limite_minimo	é necessario un minimo di ordine per ricevere la spesa a casa?
+promozioni	Perchè non trovo online le promozioni del volantino?
+new_covid_19	Mi sai dire cos'è il coronavirus?
+promemoria	come inserisco un promemoria?
+modifica_password	Volevo sapere come fare a modificare la password
+lista_farmaci_consegna_a_domicilio	Dove posso consultare i farmaci disponibili ?
+reso_consegna_domicilio	vorrei effettuare il reso
+consegna_costo	costo della consegna
+password_dimenticata	Mi dovete mandare la password per accedere
+operatore	vorrei parlare con un operatore
+email_modifica	devo modificare la mail
+consulto_medico	vorrei sapere quante ore di sonno dovrebbe fare una persona ?
+scaricare_app	App download
+ricerca_prodotti	Il mirto del contadino è possibile acquistarlo online?
+ticket	Vorrei sapere come funzionano i coupon
+modalita_pagamento	Si paga alla consegna?
+errore_apertura_pagina	Non mi apre la pagina
+info_per_farmacie	Vorrei registrare la mia farmacia ma non riesco
+new_covid_19	Vitamina c fa bene per il corona
+consegna_quantita	Esistono dei limiti di peso se ordino la spesa a casa ?
+errore_generico_app	Ho problemi con l'inserimento dei dati
+modalita_pagamento	posso pagare in contanti alla consegna?
+modifica_ordine	Vorrei modificare l'ordine posso?
+ricerca_prodotti	Trovo questo prodotto albume d'uovo1kg ?
+info_registrazione	Non mi fa registrare
+lista_farmaci_consegna_a_domicilio	Vorrei un elenco dei possibili farmaci da ordinare
+ecommerce	Voglio comprare enterogermina
+vaccini_viaggi	Quali vaccinazioni sono raccomandate se viaggio in Messico o a città del Messico?
+orari_negozi	orario chiusura negozio di bergamo
+pagina_personale	Dov'è la mia pagina personale?
+errore_pagamento	errore pagamento
+citta_consegna	Quali sono le aree coperte dal servizio?
+estero	Posso inviare i farmaci anche in farmacie estere ?
+cancellazione_account	vorrei disiscrivermi
+scaricare_app	scaricare app
+orari_negozi	Siete aperti durante le festività?
+estensione_geografica	Su quali città è attivo il servizio?
+quando_punti	quando verranno accreditati i punti?
+errore_registrazione_app	Ho problemi con la registrazione da cellulare
+problema_configurazione_app	Mi dice che posso selezionare solo huawei
+cosa_cucino	Che mi cucino per cena?
+profilo_salute	vorrei creare un profilo salute
+annullare_ordine	Chiedo informazioni per annullare l'ordine
+iniziative_commerciali	Proposte commerciali
+fasce_orarie_consegna_a_casa	Consegna fasce orarie?
+collaborazioni	Vorrei scrivere articoli per il vostro portale
+consegna_premi	posso avere con la spesa i premi?
+citta_consegna	posso sapere se nella mia zona posso usufruire del servizio ?
+errore_codice_segreto	Non riesco proprio ad inserire il codice segreto
+modifica_dati_anagrafici	Vorrei modificare i miei dati anagrafici ma non riesco
+info_newsletter	Iscriviti alla Newsletter
+quando_punti	Quando mi vengono caricati i punti accumulati con la spesa online?
+senza_glutine	no glutine
+fasce_orarie_consegna_a_casa	orari consegna
+consulto_medico	Test di gravidanza
+problema_configurazione_app	Mi compare la scritta Select Huawei 2
+prodotto_irreperibile	Come faccio se non riesco a trovare un prodotto?
+errore_schermata_indisponibile	Mi dice che la schermata da me voluta non è disponibile
+modifica_dati_anagrafici	Non riesco a modificare i dati anagrafici
+catalogo_premi	Voglio il catalogo dei punti
+estero	Posso utilizzare il vostro servizio anche all'estero?
+problema_sito	La segnalazione che mi invitate a compilare non parte. Allora a che serve?
+info_vetrina	Vorrei sapere cos'è la vetrina
+ecommerce	Uwell è un ecommerce
+consegna_piano	spedisci a piano?
+sconti_non_applicati	non riesco ad applicare lo sconto
+reso_prodotti	richiesta reso
+rimozione_dati	rimozione da professionisti
+info_per_farmacie	Possiamo collaborare al vostro progetto?
+consegna_premi	premi catalogo con spesa ?
+contenuti_blog	Vorrei aggiungere dei contenuti sul vostro blog
+operatore	Avrei bisogno di essere ricontattato
+cancellazione_newsletter	cancellami da newsletter
+errore_registrazione_app	Ho problemi con la mia registrazione
+consegna_quantita	Esistono limiti per la consegna come quantità, peso?
+scaricare_app	Come scaricare l'application
+orari_negozi	domenica a che ora chiude?
+stile_di_vita	posso avere delle informazioni specifiche sui prodotti in base al mio stile di vita?
+modifica_dati_anagrafici	Ho modificato i miei dati anagrafici ma non riesco a salvarli
+modifica_ordine	vorrei sapere come cancellare dal carrello un prodotto 
+contenuti_blog	Come posso creare contenuti sul vostro blog ?
+prezzo_prodotti	Sai dirmi se i vostri prodotti hanno lo stesso prezzo delle farmacie ?
+problema_configurazione_app	Non riesco a configurare 2pro con iphone
+modifica_email	Vorrei capire come posso modificare l'email
+ricerca_prodotti	Gelato algida edizione limitata
+orari_negozi	oggi il negozio è aperto?
+cancellazione_newsletter	no news
+a_chi_si_rivolge	a chi
+errore_aggiunta_familiare	è possibile aggiungere altri familiari?
+contatti_punti_vendita	Dove posso trovare i contatti dei punti vendita?
+info_registrazione	come faccio iscrizione?
+modifica_ordine	posso modificare un ordine?
+errore_conclusione_ordine	Ho il carrello pronto. Vai alla cassa non funziona
+errore_aggiunta_familiare	mio figlio è minorenne posso inserirlo?
+orari_negozi	il negozio di segrate è aperto domenica?
+controindicazioni	Vorrei sapere dove leggere le controindicazioni dei farmaci
+consulto_medico	Ho la febbre gialla
+catalogo_premi	catalogo punti
+problema_sito	Ho problemi con l'apertura del sito
+costo_servizio	Uwell è gratis?
+reso_prodotti	Ho ricevuto prodotti avariati
+email_modifica	Vorrei sapere come faccio a cambiare l'email
+scaricare_app	mi aiuti a scaricare l'app?
+unita_peso	Perchè per acquistare le verdure devo inserire il peso e non il numero?
+problema_sito	accesso area riservata non disponible
+errore_password	Non riesco ad inserire la mia nuova password
+registrazione_senza_email	registrazione ma non ho email
+lista_preferiti	Posso creare una lista dei miei prodotti preferiti?
+info_negozi	Punto vendita più vicino?
+errore_generico_app	uwell va in crash
+modifica_ordine	come si toglie un prodotto dal carrello?
+a_chi_si_rivolge	per chi
+fattura_elettronica	Mi serve fattura elettronica
+errore_chiusura	Ho problemi di chiusura della pagina per il cambio dell'email
+uso_improprio_email	La mia email viene utilizzata impropriamente
+no_corrispondenza_prodotti	Il prodotto in negozio non era presente mentre online si
+fattura	avrei necessità di fatturare gli acquisti e di registrare quindi i dati dello studio. come faccio?
+modalita_pagamento	Non mi fa scegliere il metodo pagamento per concludere l'ordine online
+consegna_spesa	Come avviene la spedizione?
+sconti_non_applicati	vorrei fare la spesa online ma non ho ben capito come funziona questo sconto del 50%
+errore_aggiunta_carrello	Non mi fa aggiungere i prodotti al carrello
+importo_pagato_diverso	Perché l'importo totale della spesa a carrello risulta diverso dalla somma dei prezzi dei singoli prodotti a catalogo?
+consegna_spesa	Posso inserire diversi indirizzi di consegna?
+registrazione_utenti	come mi iscrivo?
+ricerca_prodotti	Tuorli d'uovo
+saldo_punti	Punti crai
+errore_credenziali	Come faccio ad inserire le credenziali?
+ricerca_prodotti	Non trovo sul sito il pomodoro
+consulto_medico	Ho mal di pancia
+logout_carrello	Esco ma non ho terminato l'ordine
+ticket	accettate i buoni pasto EdenRed e se sì in che misura?
+prescrizione_medica	farmaci con prescrizione medica?
+ricerca_prodotti	ho bisogno dei cerotti 
+fare_spesa	indicazioni spesa crai online
+errore_metodo_pagamento	Non riesco a vedere il metodo di pagamento
+fare_spesa	Voglio sapere come faccio a inserire un prodotto nel carrello
+medico_preferito	vorrei aggiungere uno specialista tra i miei preferiti
+consulto_medico	sono allergico al polline
+iniziative_commerciali	Vorrei parlare con voi per delle iniziative e proposte commerciali
+prodotti_non_disponibili	Se pago di più rispetto a quanto mi viene consegnato?
+lista_preferiti	Si può creare una lista dei preferiti?
+fare_spesa	La spedizione e gratuita per gli over 70?
+info_negozi	Volevo sapere qual è il punto vendita più vicino a me
+lista_farmaci_consegna_a_domicilio	farmaci disponibili
+errore_aggiunta_carrello	vorrei svuotare il carrello,vorrei svuotarlo per ricominciare da capo
+codice_fiscale	inserire codice fiscale
+modifica_password	Come modifico la password ?
+senza_glutine	posso trovare i prodotti senza glutine?
+consegna_costo	quanto devo spendere per farmi spedire la spesa?
+password_dimenticata	come modifico le mie credenziali?
+errore_credenziali	Ho un problema con le credenziali di accesso
+acquisto_senza_carta_piu	Volevo sapere se si può acquistare anche senza carta fedeltà
+errore_apertura_pagina	Mi dici come posso accedere alla lista di conferma email?
+no_farmacia_intorno_a_me	non trovo nessuna farmacia intorno a me
+prodotto_scaduto	Con chi parlo per un prodotto scaduto?
+problema_consegna	Ho inserito un orario di consegna ma poi mi è arrivato tutto con grande ritardo
+errore_conclusione_ordine	Non trovo l’ordine nella mia area riservata
+prodotti_non_disponibili	Se un prodotto non è disponibile cosa succede?
+registrazione_utenti	Come faccio ad iscrivermi?
+ricerca_prodotti	Vendete la cioccolata Everciok?
+familiari	Chi posso inserire nella lista dei miei familiari?
+esito_ordine	come capisco se il mio ordine è andato a buon fine?
+consulto_medico	Cosa posso fare per addormentarmi ancora più bene?
+utente_bloccato	"Tra gli utenti de"" la mia famiglia "" mi compare un lucchetto rosso sopra"
+catalogo_premi	Catalogo premi raccolta punti
+errore_password	Ho problemi con l'inserimento della password
+consulto_medico	Il mio pene è moscio
+errore_codice_fiscale	Ho problemi con l'inserimento del codice fiscale
+sei_un_robot	con chi sto parlando?
+disponibilita_prodotti	Non trovo le linguine
+reso_consegna_domicilio	reso dei prodotti?
+info_ingredienti_allergeni	Lista allergeni
+reso_prodotti	Come faccio ad essere rimborsato per i prodotti pagati ma non disponibili?
+registrazione_senza_carta	Se non ho la carta posso iscrivermi?
+contatti	Supporto
+insoddisfazione_ordine	Non sono soddisfatto dell'ordine
+consegna_costo	Costi consegna?
+fattura	Voglio chiedere la fattura
+modalita_pagamento	Metodi di pagamento accettati?
+errore_chiusura	non riesco a chiudere il tutto
+codice_sconto	come utilizzo il coupon?
+errore_registrazione_app	Non riesco a registrarmi da entrambi i portali
+volantino	Vorrei vedere il volantino direttamente online
+modifica_password	Cambio password
+lista_farmaci_consegna_a_domicilio	ho bisogno di ditropan come posso ordinarlo?
+errore_password	Continuo ad inserire la password ma mi dà errata come mai?
+modalita_pagamento	È accettata american express?
+errore_chiusura	"Mi compare il messaggio ""errore di chiusura"""
+errore_conclusione_ordine	Cliccando su procedi all'acquisto mi riporta sempre indietro. Come mai?
+info_per_farmacie	info per farmacie
+privacy	gli utenti riceveranno pubblicità di prodotti sanofi?
+carta_fedelta_inserimento	Vorrei inserire la carta fedeltà online
+errore_password	mi sono registrata regolarmente ma non mi fa accedere poiché mi rimanda alla prima videata dicendomi che ho la password errata...... a questo punto non so che fare?
+fare_spesa	C'è un numero massimo di articoli ordinabili on line?
+logout_carrello	se esco dal sito la spesa si salva?
+errore_metodo_pagamento	Non riesco a procedere con l'inserimento del metodo di pagamento
+cancellazione_account	cancella account
+logout_carrello	Vorrei uscire senza completare l'ordine?
+errore_conclusione_ordine	Ogni volta che faccio ordine netto tutto nel carrello arrivo alla fine per pagare e mi cancella tutto come è possibile ? 
+errore_generico_app	Ho problemi di registrazione all'app da ios
+mancato_accredito_punti	Accredito punti in carta fedeltà non ancora avvenuto
+collaborazioni	info per invio c.v.
+errore_password	Non riesco a creare la password
+errore_pagamento	Ho fatto la spesa ma non procede col pagamento
+costo_servizio	quanto costa l'app su apple store ?
+cancellazione_account	Se cancello l'app i miei dati saranno cancellati?
+ordine_effettuare	Mi dici come effettuo l'ordine?
+cancellare_registrazione	cancellare registrazione
+modalita_pagamento	Pagamenti?
+promozioni	Promozioni in corso
+email_conferma_registrazione	Non ho ancora ricevuto l'email di conferma della registrazione
+lista_farmaci_consegna_a_domicilio	Quali sono i farmaci disponibili ?
+ricerca_prodotti	Le confezioni di latte non compaiono
+problema_consegna	Non ho ricevuto la spedizione nell'orario richiesto
+password_dimenticata	Come faccio se non ricordo più la password ?
+prescrizione_medica	come faccio con i farmaci che hanno bisogno di prescrizione?
+new_covid_19	Ho bisogno di informazioni sul coronavirus?
+annullare_ordine	come annullo un ordine ?
+errore_aggiunta_carrello	Sto aggiungendo prodotti al carrello ma quest'ultimo risulta sempre vuoto.
+consegna_a_domicilio	come ordinare prodotti
+password_dimenticata	Non ricordo più la password.
+prodotto_sbagliato	Mi hanno consegnato un prodotto diverso da quello che ho ordinato, cosa faccio?
+fasce_orarie_consegna_a_casa	Quali sono gli orari per il servizio di consegna?
+errore_password	Come faccio ad inserire la password?
+uso_improprio_email	email mai inserita
+stile_di_vita	Posso avere delle info specifiche sui prodotti in base al mio stile di vita?
+consegna_quantita	ho fatto la spesa online devo rispettare dei limiti?
+limite_minimo	C'è un minimo di ordine?
+promozioni	Le offerte di questa settimana
+fare_spesa	come faccio a fare la spesa ?
+citta_consegna	La mia zona è servita?
+controindicazioni	Che controindicazioni ha questo farmaco?
+modalita_pagamento	pagamento in contanti
+lista_farmaci_consegna_a_domicilio	Dove vedo quali farmaci posso acquistare e quali no?
+visita_supermercato	Posso vedere il supermercato prima di registrarmi?
+problema_sito	Non riesco ad effettuare ordine online
+modifica_ordine	Come posso modificare l'ordine?
+privacy	info dati sensibili
+esito_ordine	esito ordine?
+consulto_medico	I probiotici vanno assunti a stomaco vuoto?
+problema_consegna	indirizzo errato
+fasce_orarie_consegna_a_casa	Come devo fare per farmi consegnare a casa l'ordine?
+registrazione_utenti	Vorrei iscrivermi a uwell
+errore_codice_fiscale	Non mi inserisce il codice fiscale
+consegna_costo	Mi sai dire quanto costa la consegna ?
+info_registrazione	non riesco a registrarmi, sembra che il servizio non sia disponibile
+ricetta	Posso chiedervi delle ricette?
+visita_supermercato	Voglio registrarmi solo in seguito alla visita del supermercato!
+cambiare_orario_consegna	Ho inserito un orario per la consegna che non è stato minimamente calcolato
+consulto_medico	Si guarisce dall ipersonnia?
+importo_pagato_diverso	I prodotti non hanno lo stesso prezzo del carrello
+no_farmacia_intorno_a_me	come faccio a vedere che farmacie ci sono intorno?
+profilo_salute	Come faccio a creare il profilo salute
+modalita_pagamento	Quali sono le modalità di pagamento?
+operatore	Con chi posso parlare ?
+utente_bloccato	mi ha bloccato
+promemoria	l'agenda non è attiva, come si può avere un promemoria di ricarica per ogni singolo farmaco?
+modalita_pagamento	Quale pagamento è disponibile?
+sconti_non_applicati	lo sconto 50% sui prodotti con carta Più non è attivo
+accesso_limitato	scritta accesso limitato che si può fare?
+complimenti	bellissima la vostra app
+info_malattie	In quali Paesi è diffusa la febbre gialla?
+consegna_piano	vorrei sapere se la spesa mi verrà consegnata al mio appartamento!
+cancellazione_account	Potete cancellare i miei dati ?
+unita_peso	Il peso delle mie verdure è predefinito perché
+consulto_medico	Perché non riesco a dormire ?
+problema_consegna	Non c'è posto per la consegna?
+carta_fedelta_inserimento	Inserire la carta fedeltà
+cambiare_orario_consegna	Vorrei che arrivi dopo
+cancellazione_account	Come cancello il profilo
+contatti_punti_vendita	Avrei bisogno di contattare il negozio
+citta_consegna	Volevo sapere quali sono i supermercati nel quale posso fare la spesa online
+reso_prodotti	prodotto danneggiato
+rimozione_dati	risulto iscritto ma non lo sono
+consegna_a_domicilio	A Rozzano funziona il vostro servizio?
+ordine_effettuare	Come posso effettuare l'ordine?
+errore_codice_fiscale	codice fiscale sbagliato, perché?
+consegna_spesa	Dall'ordine entro quanto tempo lo posso andare a ritirare?
+pagina_personale	pagina personale cos'è?
+modifica_ordine	Non riesco a cambiare data di consegna
+privacy	mi dici come verranno utilizzati i dati sensibili?
+citta_consegna	Si può consegnare a cap 71028
+esito_ordine	il mio ordine è andato a buon fine?
+reso_prodotti	i prodotti non sono corretti cosa posso fare?
+citta_consegna	Consegnate anche a Milano ?
+tracking	Vorrei conoscere lo stato dell'ordine
+consulto_medico	Come mai mi addormento senza motivo
+info_per_farmacie	Vorremmo collaborare con il vostro progetto
+orari_negozi	Ritiro in negozio dei prodotti orari
+collaborazioni	vorrei iniziare a collaborare con voi
+fattura_elettronica	Vorrei avvalermi della e-fatture
+catalogo_premi	Vorrei vedere i premi con i punti
+problema_configurazione_app	Uwell funziona con iphone 5
+ordine_effettuare	Come termino e confermo l'ordine?
+errore_pagamento	Ho avuto l'ordine effettuato non è andato in porto
+modifica_ordine	Togliere una bottiglia di olio dal carrello
+carta_non_intestatario	Posso registrarmi anche con la carta fedeltà di un'altra persona?
+sconti_non_applicati	Perchè non mi avete applicato gli sconti?
+fare_spesa	Come eseguire l'ordine per la spesa
+info_negozi	informazioni dello store di segrate
+citta_consegna	Vorrei sapere se il mio domicilio è coperto
+modifica_password	Vorrei chiederti aiuto sulla modifica della password
+citta_consegna	In Calabria arriva
+volantino	Come mai non trovo il volantino?
+consegna_costo	La spesa a casa è gratis?
+addebito_bancario_spesa	Ordine riuscito
+ricerca_prodotti	Chiedo se disponibili presso i vostri punti vendita i seguenti prodotti :
+prezzo_prodotti	Se acquisto con la vostra app pago lo stesso che in farmacia ?
+problema_accesso_app	ho problemi di accesso
+modifica_email	L'email da me inserita non è più valida
+info_per_farmacie	Siamo una farmacia e vogliamo collaborare
+citta_consegna	Perché il servizio non è attivo su tutta Italia?
+hr	Personale?
+problema_sito	Ho un problema col sito
+fattura	è possibile richiedere fattura come azienda e pagare tramite bonifico bancario?
+consulto_medico	Componenti farmaci
+insoddisfazione_ordine	Non sono molto soddisfatto dell'ordine che faccio?
+errore_registrazione_app	Ho problemi con la registrazione da app su android
+operatore	vorrei reclamare
+hr	Ho bisogno di sapere quali sono le posizioni aperte
+modifica_password	Come faccio a modificare la password?
+vaccini_viaggi	Quale vaccino devo fare se mi reco in Burundi?
+fasce_orarie_consegna_a_casa	Fasce orarie servizio consegna a casa
+errore_password	Sto provando ad accedere all'area personale ma non riesco
+registrazione_senza_email	Posso registrarmi anche senza email?
+errore_schermata_indisponibile	Mi da errore di schermata
+errore_metodo_pagamento	Circuito di pagamento non presente
+errore_aggiunta_familiare	Vorrei aggiungere tra i familiari mia madre e mio marito ma non riesco
+codice_fiscale	si può inserire la tessera sanitaria?
+sconti_non_applicati	Il prezzo del prodotto non è scontato
+farmacia_preferita	Mi compare la farmacia ma non come preferita come mai?
+complimenti	veramente bellissima la vostra app
+errore_pagamento	Voglio eliminare la mia carta di credito
+errore_aggiunta_familiare	Vorrei aggiungere altri familiari ma non riesco come posso fare?
+coupon_omaggio	Come faccio a scaricare i coupon?
+esito_ordine	Vorrei sapere se il mio ordine è andato a buon fine
+carrello_spesa	Credo ci siano dei problemi con il carico del carrello.
+scontrino_fiscale	La fatturazione è obbligatoria?
+controindicazioni	Vorrei sapere le controindicazioni per i farmaci
+prodotti_non_disponibili	Non ho ricevuto la differenza di soldi pagati in più rispetto alla spesa come mai?
+modalita_pagamento	Come si paga?
+vaccini_viaggi	vaccini obbligatori per andare in messico
+cambiare_orario_consegna	Voglio modificare la consegna
+acquisto_senza_carta_piu	Non ho la carta fedeltà posso acquistare lo stesso?
+costo_servizio	Quanto costa registrarsi al servizio
+tracking	Dovrei tracciare l'ordine
+prodotti_non_disponibili	I prodotti non presenti saranno rimborsati ?
+agenda_bloccata	Non riesco a salvare i miei appuntamenti sull'agenda come mai?
+consegna_a_domicilio	come faccio a farmi consegnare un farmaco a casa?
+consegna_a_domicilio	se voglio ordine un determinato farmaco come faccio?
+errore_apertura_pagina	Non riesco ad accedere alla pagina per l'inserimento della farmacia
+device_diversi_sincronizzati	come faccio a sincronizzare più dispositivi?
+email_conferma_registrazione	Non ho ricevuto l'email per la conferma della mia registrazione
+errore_password	non riesco a fare il login
+tipologie_ordine	Ho letto che offrite delle tipologie d'ordine ovvero?
+consulto_medico	vorrei informazioni sui farmaci
+info_per_farmacie	Vorrei far parte della vostra rete di farmacie.
+errore_credenziali	Mi dici come faccio ad inserire le credenziali?
+cancellazione_newsletter	Non mi sono mai iscritta alla vostra newsletter e vorrei disiscrivermi senza iscrivermi al vostro sito
+citta_consegna	Corso Vittorio Emanuele 0
+no_corrispondenza_prodotti	i prezzi per la spesa online sono uguali a quelli del punto vendita ?
+consulto_medico	sono allergico
+volantino	Posso vedere le offerte direttamente dal volantino?
+prezzo_prodotti	Come faccio a sapere il prezzo di un prodotto?
+problema_sito	sono bloccata con la spesa online
+problema_sito	Sto avendo problemi con l'apertura del sito
