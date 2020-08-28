@@ -1,4 +1,4 @@
-#BERTino: an Italian DistilBERT model
+# BERTino: an Italian DistilBERT model
 
 This repository hosts BERTino, an Italian DistilBERT model pre-trained by
 [indigo.ai](https://indigo.ai/en/)
@@ -6,14 +6,14 @@ on a large general-domain Italian corpus. BERTino is task-agnostic and can be
 fine-tuned for every downstream task.
 
 
-###Corpus
+### Corpus
 The pre-training corpus that we used is the union of the
 [Paisa](https://www.corpusitaliano.it/) and
 [ItWaC](https://corpora.dipintra.it/public/run.cgi/corp_info?corpname=itwac_full)
 corpora. The final corpus counts 14 millions of sentences for a total of 12 GB
 of text.
 
-###Downstream Results
+### Downstream Results
 To validate the pre-training that we conducted, we evaluated BERTino on the
 [Italian ParTUT](https://universaldependencies.org/treebanks/it_partut/index.html),
 [Italian ISDT](https://universaldependencies.org/treebanks/it_isdt/index.html),
