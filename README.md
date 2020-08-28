@@ -45,6 +45,7 @@ fine-tuned in the same tasks and for the same number of epochs.
 | Teacher      | 0,9178    | 67m, 8s         | 5m, 16s              |
 
 **Multi-class sentence classification:**
+
 | Model        | F1 score | Fine-tuning time | Evaluation time |
 |--------------|----------|------------------|-----------------|
 | BERTino      | 0,7788   | 4m, 40s           | 6s             |
